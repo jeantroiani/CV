@@ -1,7 +1,7 @@
 Jean Troiani
 ------------
 
-Currently available junior full stack developer. Looking to participate in any project where I can keep cultivating my skills and collaborate to achive goals with the best practices. Fast leaner, problem solving and keen to learn new technology.  
+Currently available junior full stack developer. Looking to participate in any project where I can keep cultivating my skills and collaborate to achieve goals with the best practices. Fast leaner, problem solving and keen to learn new technology.  
 
 
 Code examples
@@ -82,7 +82,7 @@ Experience
 **2013&mdash;2014**
 - Video editing.
 - UI designer.
-- Art concept.
+- Concept art.
 
 #### [Echo Peak] - Technical Animator - Brighton, UK.
 **2012&mdash;2013**
@@ -105,7 +105,7 @@ Experience
 companies, Army, Telephone Company, gourmet store and other corporations.
 - Create 3D models for various clients.
 - Paint texture for UV maps.
-- Retouch and color corrections of images and video editing.
+- Retouch and colour corrections of images and video editing.
 
 
 
