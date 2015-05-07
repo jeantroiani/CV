@@ -77,6 +77,9 @@ Education
 
 Experience
 ----------
+#### [Just Giving] - Front end developer - London, UK.
+**2014&mdash;Present**
+- HTML5, CSS, Jquery, Angular.
 
 #### [Zoe Mode] - Graphic Artist - Brighton, UK.
 **2013&mdash;2014**
